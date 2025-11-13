@@ -66,5 +66,6 @@ Navigate to `books_app/main/tests.py` and `books_app/auth/tests.py`, and complet
 
 If you'd like more resources on working with Flask-WTForms, check out the following:
 
+- [Testing Flask with PyTest](https://testdriven.io/blog/flask-pytest/)
 - [Testing Flask Applications](https://flask.palletsprojects.com/en/1.1.x/testing/)
 - [Python Tutorial: Unit Testing Your Code with the unittest Module [VIDEO]](https://www.youtube.com/watch?v=6tNS--WetLI)
